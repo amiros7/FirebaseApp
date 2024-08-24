@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="sign_up_text">Don\'t have an account? Please Click here!</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Password</string>
+    <string name="enter_email">Email</string>
+    <string name="error">Error!</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="create_a_new_account">Create New Account</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="succees_register">The registration process has been successfully completed!</string>
+    <string name="success_sign_in">You are logged in!</string>
+    <string name="log_out">Log out</string>
+    <string name="remove_user">Remove current user</string>
+    <string name="no_email">Please enter your email</string>
+    <string name="alert">Alert!</string>
+    <string name="forget_password">Check you email, and reset your password there!</string>
+</resources>
